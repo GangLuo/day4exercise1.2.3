@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8D461620-35D8-4A85-9D00-1CE8C0414B0F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>day4exercise3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>07F96656-0F8B-4F26-BB31-E0B02DC9F0E0</key>
+		<string>https://github.com/GangLuo/day4exercise1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>day4exercise3/day4exercise3.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>07F96656-0F8B-4F26-BB31-E0B02DC9F0E0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GangLuo/day4exercise1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>07F96656-0F8B-4F26-BB31-E0B02DC9F0E0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>07F96656-0F8B-4F26-BB31-E0B02DC9F0E0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>day4exercise1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
